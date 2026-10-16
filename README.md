@@ -1,15 +1,12 @@
 # Tienda TECSUP
 
-Proyecto de práctica para el Laboratorio 3: trabajo colaborativo con repositorios remotos.
+Proyecto de practica para el Laboratorio 03 del curso
+Diseno de Interfaces de Programacion Avanzado.
 
-## Cómo verlo
+Al abrir index.html en el navegador, la pagina deberia verse con los
+colores del curso y mostrar en la ultima linea:
 
-Abre `index.html` con doble clic en el navegador.
+Total: S/ 68.00
 
-## Cómo debería verse
-
-- Encabezado celeste con el título **Tienda TECSUP** y la tipografía del curso.
-- Una tabla con el carrito:
-  - Polo TECSUP — S/ 25.00 — cantidad 2
-  - Taza TECSUP — S/ 18.00 — cantidad 1
-- El total del carrito debe decir **S/ 68.00**.
+Si lo que ves es distinto, hay algo que corregir. Reportalo con un
+Issue y propon la correccion con un Pull Request
